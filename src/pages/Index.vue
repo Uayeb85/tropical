@@ -1,6 +1,6 @@
 <template>
   <Layout>
-      <section class="text-gray-700 body-font total bg-red-700">
+      <section class="text-gray-700 body-font total">
         <div class="container px-5 pt-3 md:py-32  mx-auto">
           <div class="flex  flex-wrap -m-4">
             <div class="lg:w-1/6 md:w-1/2 p-4 w-full">

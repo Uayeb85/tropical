@@ -1,6 +1,6 @@
 <template>
 <div>
-<header class="sm:flex sm:justify-between sm:items-center sm:px-4 sm:py-4 bg-black">
+<header class="sm:flex sm:justify-between sm:items-center sm:px-4 sm:py-4 ">
       <div class="flex items-center justify-between px-4 py-4 sm:p-0">
         <div class="px-0 md:px-8">
             <g-link to="/">

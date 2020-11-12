@@ -1,5 +1,5 @@
 <template>
-  <div class="layout">
+  <div class="layout fondo">
     <header>
       <nav class="py-4 md:py-10">
         <Barra />
@@ -37,6 +37,8 @@ export default {
 
 <style>
 
-
+.fondo{
+    background:#f0e5d8;
+}
 
 </style>
