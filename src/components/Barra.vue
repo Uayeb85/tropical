@@ -1,6 +1,6 @@
 <template>
 <div>
-<header class="sm:flex sm:justify-between sm:items-center sm:px-4 sm:py-4">
+<header class="sm:flex sm:justify-between sm:items-center sm:px-4 sm:py-4 bg-black">
       <div class="flex items-center justify-between px-4 py-4 sm:p-0">
         <div class="px-8">
             <g-link to="/">
@@ -17,7 +17,7 @@
         </div>
       </div>
       <div :class="isOpen ? 'block' : 'hidden'" class="px-4 pt-2 pb-4 sm:flex sm:p-0"  >
-          <div class="px-8">
+          <div class="px-8 flex flex-col items-start md:items-end">
              <a href=""> <g-image src="~/img/acerca.svg" class="pb-4" /></a> 
              <a href="mailto:ediciones@esplintropical.com"><g-image src="~/img/contacto.svg" /></a> 
           </div>
