@@ -37,6 +37,11 @@ export default {
 
 <style>
 
+*{
+  margin: 0;
+  box-sizing: border-box
+}
+
 .fondo{
     background:#f0e5d8;
 }

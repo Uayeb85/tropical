@@ -1,5 +1,5 @@
 <template>
-  <Layout>
+  <Layout class="fondo">
       <section class="text-gray-700 body-font total">
         <div class="container px-5 pt-3 md:py-32  mx-auto">
           <div class="flex  flex-wrap -m-4">
@@ -61,6 +61,10 @@ export default {
 <style>
 @media only screen and (min-width: 0px)  and (max-width: 768px){
 
+.fondo{
+  background:#f0e5d8 ;
+}
+
 .total{
   width: auto;
 }
@@ -77,6 +81,11 @@ export default {
 }
 
 @media only screen and (min-width: 769px)  and (max-width: 2900px) {
+
+
+.fondo{
+  background:#f0e5d8 ;
+}
 
   .total{
   height: auto;
