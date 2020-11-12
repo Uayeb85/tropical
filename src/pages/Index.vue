@@ -17,7 +17,7 @@
                     <g-image src="~/img/cuchillo.svg" class="ml-32 pt-10 no" />
 
               <div class="mt:0 md:mt-4">
-                  <g-image src="~/img/monito.svg" class="pt:0 md:pt-24" />
+                  <g-image src="~/img/monito.svg" class="pt:0 md:pt-24 size" />
               </div>
             </div>
             <div class="lg:w-1/6 md:w-1/2 p-4 w-full">
@@ -67,6 +67,11 @@ export default {
 
 .no{
   display: none;
+}
+
+.size{
+  width: 350px;
+  height: 150px;
 }
 
 }
