@@ -1,0 +1,41 @@
+<template>
+        <div class="pb-10">
+                <div class="px-12"> 
+                     <hr class="color-linea">
+                </div>
+                <div class="flex px-12 pt-6">
+                    <g-link class="mr-4">
+                        <g-image src="~/img/acerca-footer.svg"  />
+                    </g-link>
+                    <a href="mailto:ediciones@esplintropical.com" class="mr-4">
+                        <g-image src="~/img/contacto-footer.svg" />
+                    </a>
+                    <g-link class="mr-4">
+                        <g-image src="~/img/instagram-footer.svg" />
+                    </g-link>
+                    <g-link class="mr-4">
+                        <g-image src="~/img/twitter-footer.svg" />
+                    </g-link>
+                    <g-link>
+                        <g-image src="~/img/facebook-footer.svg" />
+                    </g-link>
+                </div>
+        </div>
+</template>
+
+<script>
+export default {
+    name:'Footer',
+}
+</script>
+
+<style scoped>
+
+.color-linea{
+    background-color: #2121e8;
+    width: 100%;
+    height: 2px;
+    text-align: center;
+}
+
+</style>
