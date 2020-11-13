@@ -8,9 +8,7 @@
     <main>
       <slot/>
     </main>
-    <footer>
-      <Footer />
-    </footer>
+
   </div>
 </template>
 
@@ -24,12 +22,10 @@ query {
 
 <script>
 import Barra from '~/components/Barra.vue'
-import Footer from '~/components/Footer.vue'
 
 export default {
   components:{
     Barra,
-    Footer
   }
 }
 </script>

@@ -3,7 +3,7 @@
                 <div class="px-12"> 
                      <hr class="color-linea">
                 </div>
-                <div class="flex flex-wrap px-12 pt-6">
+                <div class="flex flex-wrap items-center px-12 pt-6">
                     <g-link class="mr-4 pb-10 md:pb-0">
                         <g-image src="~/img/acerca-footer.svg"  />
                     </g-link>

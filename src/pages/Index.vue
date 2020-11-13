@@ -1,8 +1,8 @@
 <template>
   <Layout class="fondo">
       <section class="text-gray-700 body-font total">
-        <div class="container px-5 pt-3 md:py-32  mx-auto">
-          <div class="flex  flex-wrap -m-4">
+        <div class="container-fluid px-5 pt-3 md:pt-0 mx-auto">
+          <div class="flex justify-center items-center flex-wrap -m-4">
             <div class="lg:w-1/6 md:w-1/2 p-4 w-full">
                 <g-image src="~/img/flecha.svg" class="ml-12 md:pt-24 md:ml:0" />
             </div>           
@@ -24,34 +24,43 @@
                   <g-image src="~/img/pescado.svg" class="pt-0 ml-48 md:ml-0 md:pt-24" />
 
               <div class="mt-0 md:mt-4">
-                  <g-image src="~/img/cuaderno.svg" class="pt-0 -mt-24 ml-8 md:pt-24 md:ml-40" />
+                  <g-image src="~/img/cuaderno.svg" class="pt-0 -mt-24 ml-8 md:pt-32 md:ml-64" />
 
               </div>
             </div>
             <div class="lg:w-1/6 md:w-1/2 p-4 w-full">
-                  <g-image src="~/img/manzana.svg" class="pt-20 ml-32 no" />
+                  <g-image src="~/img/manzana.svg" class=" ml-32 no" />
 
             </div>
-            <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+            <div class="lg:w-1/6 md:w-1/2 p-4 w-full">
                 <g-image src="~/img/flor.svg"  />
             </div>
-            <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+            <div class="lg:w-1/6 md:w-1/2 p-4 w-full">               
                 <g-image src="~/img/vibora.svg" class="ml-24 -mt-10 md:ml-10 md:pt-10 " />
             </div>
-            <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+            <div class="lg:w-1/6 md:w-1/2 p-4 w-full">
                 <g-image src="~/img/florero.svg" class="ml-20 pt-10 no " />
             </div>
-            <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+            <div class="lg:w-1/6 md:w-1/2 p-4 w-full">
                   <g-image src="~/img/reloj.svg" class="pt-20 ml-32 no" />
             </div>
           </div>
         </div>
       </section>
+      <footer>
+         <Footer class="foot" />
+      </footer>
   </Layout>
 </template>
 
 <script>
+import Footer from '~/components/Footer.vue'
+
+
 export default {
+  components:{
+    Footer,
+  },
   metaInfo: {
     title: 'Esplin Tropical'
   }
@@ -88,9 +97,17 @@ export default {
 }
 
   .total{
-  height: auto;
+  height: 750px;
   width: auto;
 }
+
+.size{
+  width: 450px;
+  height: 350px;
+}
+
+
+
 }
 
 </style>
