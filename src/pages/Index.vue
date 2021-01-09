@@ -54,15 +54,15 @@
       </section>
 
       <section>
-        <Proyecto />
+        <Proyecto id="editorial" />
       </section>
 
       <section>
-        <Esplin />
+        <Esplin id="esplin" />
       </section>
       <section>
 
-        <Contacto />
+        <Contacto id="contacto" />
       </section>
       <footer>
 

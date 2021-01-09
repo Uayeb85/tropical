@@ -1,15 +1,16 @@
 <template>
-        <div class="pb-10 fondo">
+        <div class="pb-5 fondo">
 
-                <div class="flex flex-wrap items-center px-12 pt-6">
-                    <g-link class="mr-4 pb-10 md:pb-0">
+                <div class="flex justify-center items-center md:flex md:flex-wrap md:items-center md:justify-start md:px-12 pt-5">
+                    <a href="#editorial"  class="mr-4">
                         <g-image src="~/img/acerca-footer.svg"  />
-                    </g-link>
+                    </a>
+
                     <a href="mailto:ediciones@esplintropical.com" class="mr-4">
                         <g-image src="~/img/contacto-footer.svg" />
                     </a>
                     <g-link class="mr-4">
-                        <g-image src="~/img/instagram-footer.svg" />
+                        <g-image src="~/img/instagram-footer.svg"  />
                     </g-link>
                     <g-link class="mr-4">
                         <g-image src="~/img/twitter-footer.svg" />
