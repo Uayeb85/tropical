@@ -17,9 +17,10 @@
         </div>
       </div>
       <div :class="isOpen ? 'block' : 'hidden'" class="px-4 pt-2 pb-4 sm:flex sm:p-0"  >
-          <div class="px-0 md:px-8 flex flex-col items-start md:items-end">
+          <div class="px-0 md:px-8 flex flex-col items-start ">
              <a href=""> <g-image src="~/img/acerca.svg" class="pb-4" /></a> 
-             <a href="mailto:ediciones@esplintropical.com"><g-image src="~/img/contacto.svg" /></a> 
+             <a href=""> <g-image src="~/img/esplin.svg" class="pb-4" /></a> 
+             <a href="#contacto"><g-image src="~/img/contacto.svg" /></a> 
           </div>
       </div> 
   </header>
@@ -49,18 +50,17 @@ export default {
 @media only screen and (min-width: 0px)  and (max-width: 768px){
 
 .fondo{
-  background:#f0e5d8 ;
+  background: #fcf2eb;
 }
 
 .color{
-    color:#2121e8;
+    color:#293b5c;
 }
 
 .color-linea{
-    background-color: #2121e8;
+    background-color: #293b5c;
     width: 100%;
-    height: 2px;
-    text-align: center;
+    height: 1px;
 }
 
 .no{
@@ -71,18 +71,18 @@ export default {
 
 @media only screen and (min-width: 769px)  and (max-width: 2900px) {
 .fondo{
-  background:#f0e5d8 ;
+  background: #fcf2eb;
 }
 
 
 .color{
-    color:#2121e8;
+    color:#293b5c;
 }
 
 .color-linea{
-    background-color: #2121e8;
+    background-color: #293b5c;
     width: 100%;
-    height: 2px;
+    height: 1.5px;
     text-align: center;
 }
 

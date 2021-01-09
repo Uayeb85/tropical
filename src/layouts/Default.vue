@@ -38,8 +38,6 @@ export default {
   box-sizing: border-box
 }
 
-.fondo{
-    background:#f0e5d8;
-}
+
 
 </style>

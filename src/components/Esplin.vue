@@ -1,0 +1,42 @@
+<template>
+    <section class="text-gray-700 body-font overflow-hidden fondo12">
+        <div class="container px-5 py-24 mx-auto">
+            <div class="lg:w-4/5 mx-auto flex flex-wrap">
+            <div class="lg:w-1/3 w-full lg:py-6 mt-6 lg:mt-0 ml-0 md:ml-24 ">
+                <p class="leading-relaxed pb-4 letra">La palabra <span class="italic"> spleen </span>  tiene un origen en la medicina antigua y hace referencia al bazo (splên), órgano que, acorde a la teoría de Hipócrates, se encargaba de nivelar los humores del cuerpo. Un exceso de bilis negra -causado por una mala combinación- sumergía al sujeto en un estado de abatimiento y melancolía. Aristóteles relacionaba la melancolía con la enfermedad, pero de igual manera con el genio y la excepcionalidad. Para Baudelaire, el spleen refería a una escisión vital sin causa aparente; una sensación simultánea de hartazgo y vacío. Para ambos, la melancolía era un estado fuera de sí: un ver desde fuera, el encontrarse sometido a una voluntad ajena, a ser objeto de los propios actos cometidos.   </p>
+            </div>
+            <div class="lg:w-1/3 w-full  lg:py-6 mt-6 lg:mt-0 ml-0 md:ml-16 flex justify-center items-center">
+                <p class="leading-relaxed pb-4 letra"> <span class="italic"> ¿Cómo entender el acto de narrar y escuchar historias sin esta experiencia de desdoblamiento, de viaje, de alteridades y otredades?  </span>  En Esplín tropical buscamos diseñar una cartografía imaginativa inspirada en estas visiones y padecimientos. Una biblioteca indispensable para todos aquellos lectores que busquen refugio bajo nuestro mal de ánimo tropical.  </p>
+            </div>
+            <div class="flex justify-center items-center mt-10 md:mt-0 ml-32 md:ml-24">
+            <g-image alt="ecommerce" class="imagen object-center object-contain flex items-center justify-center " src="~/img/flor.svg" />
+            </div>
+            </div>
+
+        </div>
+    </section>
+</template>
+
+<script>
+export default {
+    name:'Esplin',
+}
+</script>
+
+<style  scoped>
+
+
+.fondo12{
+    background: #fcf2eb;
+}
+
+.imagen{
+    height: 50px;
+    width: 50px;
+}
+
+.letra{
+    color: #293b5c;
+}
+
+</style>
