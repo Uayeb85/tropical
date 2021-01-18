@@ -1,7 +1,7 @@
 <template>
-        <div class="pb-5 fondo">
+        <div class="pt-10 pb-10 fondo">
 
-                <div class="flex justify-center items-center md:flex md:flex-wrap md:items-center md:justify-start md:px-12 pt-5">
+                <div class="flex justify-center items-center md:flex md:flex-wrap md:items-center md:justify-start md:px-12 ">
                     <a href="#editorial"  class="mr-4">
                         <g-image src="~/img/acerca-footer.svg"  />
                     </a>
