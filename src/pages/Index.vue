@@ -30,7 +30,7 @@
               </div>
             </div>
             <div class="lg:w-1/6 md:w-1/2 p-4 w-full">
-                  <g-image src="~/img/cuaderno.svg" class=" ml-0 mb-64 " />
+                  <g-image src="~/img/cuaderno.svg" class="-ml-32 mb-56 " />
 
             </div>
             <div class="lg:w-1/6 md:w-1/2 p-4 w-full">

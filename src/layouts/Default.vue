@@ -1,7 +1,7 @@
 <template>
   <div class="layout fondo">
     <header>
-      <nav class="py-4 md:py-10">
+      <nav class="py-4 mb-16 md:py-10 ">
         <Barra />
       </nav>
     </header>

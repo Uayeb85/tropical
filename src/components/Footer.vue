@@ -9,15 +9,18 @@
                     <a href="mailto:ediciones@esplintropical.com" class="mr-4">
                         <g-image src="~/img/contacto-footer.svg" />
                     </a>
-                    <g-link class="mr-4">
+
+                    <a href="https://www.instagram.com/esplintropicaled" class="mr-4">
                         <g-image src="~/img/instagram-footer.svg"  />
-                    </g-link>
-                    <g-link class="mr-4">
+                    </a>
+
+                    <a href="https://twitter.com/esplintropical" class="mr-4">
                         <g-image src="~/img/twitter-footer.svg" />
-                    </g-link>
-                    <g-link>
+                    </a>
+                    
+                    <a href="https://www.facebook.com/esplintropicaled">
                         <g-image src="~/img/facebook-footer.svg" />
-                    </g-link>
+                    </a>
                 </div>
         </div>
 </template>
