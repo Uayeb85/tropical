@@ -39,8 +39,8 @@
                   <g-image src="~/img/bug.svg" class="ml-56 mt-64" />
             </div>
 
-            <div class="flex justify-center items-center">
-              <div class="w-full size">
+            <div class=" ">
+              <div class="size">
                   <g-image src="~/img/monito.svg" class="" />
               </div>
             </div>
@@ -72,7 +72,7 @@ export default {
 }
 
 .size{
-  width: 250px;
+  width: 175px;
   height: 150px;
 }
 

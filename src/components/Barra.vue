@@ -17,7 +17,7 @@
         </div>
       </div>
       <div :class="isOpen ? 'block' : 'hidden'" class="px-4 pt-2 pb-4 sm:flex sm:p-0"  >
-          <div class="px-0 md:px-8 flex flex-col items-start ">
+          <div class="px-0 md:px-8 flex flex-col items-end ">
              <a href="#editorial"> <g-image src="~/img/acerca.svg" class="pb-4" /></a> 
              <a href="#esplin"> <g-image src="~/img/esplin.svg" class="pb-4" /></a> 
              <a href="#contacto"><g-image src="~/img/contacto.svg" /></a> 
