@@ -7,8 +7,8 @@
             </div>
 
             <div class="lg:w-1/3 w-full lg:py-6 mt-6 lg:mt-0 ml-0 md:ml-10">
-                <p class="leading-relaxed pb-4 color-font">Esplín tropical es un proyecto editorial, a pequeña escala, imaginado y gestado en la Ciudad de México. Hacemos libros inspirados por el ejercicio del aburrimiento. </p>
-                <p class="leading-relaxed pb-4 color-font">Walter Benjamín escribió, quien no se aburre, no tiene la capacidad de contar historias. Tanto para quien narra historias, como para quien las escucha, el aburrimiento es un padecimiento vital. Éste, no refiere a un estado de inacción, más bien, a uno de profunda introspección: un viaje a las profundidades del yo. </p>
+                <p class="leading-relaxed pb-4 color-font">Esplín tropical es un proyecto editorial, a pequeña escala, imaginado y gestado en la Ciudad de México. <span class="font-bold"> Hacemos libros inspirados por el ejercicio del aburrimiento. </span>   </p>
+                <p class="leading-relaxed pb-4 color-font">Walter Benjamín escribió, quien no se aburre, no tiene la capacidad de contar historias. Tanto para quien narra historias, como para quien las escucha, el aburrimiento es un padecimiento vital. Éste, no refiere a un estado de inacción, más bien, a uno de profunda introspección: un viaje a las profundidades del <span class="font-bold" >yo </span> . </p>
                 <p class="leading-relaxed color-font">Buscamos historias en el impasse cotidiano, en las caminatas sin trayectoria aparente y en las redundancias temporales del ser. Construimos una biblioteca como un refugio de voces y miradas que consideramos imprescindibles, relevantes a nuestro tiempo y, sobre todo, necesarias para recuperar el aliento.  </p>
             </div>
             </div>

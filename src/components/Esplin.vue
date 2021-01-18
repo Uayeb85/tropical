@@ -6,10 +6,18 @@
                 <g-image alt="flor" class="imagen object-center object-contain flex items-center justify-center " src="~/img/flor.svg" />
             </div>
             <div class="lg:w-1/3 w-full lg:py-6 mt-6 lg:mt-0 ml-0 md:ml-24 ">
-                <p class="leading-relaxed pb-4 letra">La palabra <span class="italic"> spleen </span>  tiene un origen en la medicina antigua y hace referencia al bazo (splên), órgano que, acorde a la teoría de Hipócrates, se encargaba de nivelar los humores del cuerpo. Un exceso de bilis negra -causado por una mala combinación- sumergía al sujeto en un estado de abatimiento y melancolía. Aristóteles relacionaba la melancolía con la enfermedad, pero de igual manera con el genio y la excepcionalidad. Para Baudelaire, el spleen refería a una escisión vital sin causa aparente; una sensación simultánea de hartazgo y vacío. Para ambos, la melancolía era un estado fuera de sí: un ver desde fuera, el encontrarse sometido a una voluntad ajena, a ser objeto de los propios actos cometidos.   </p>
+                <p class="leading-relaxed pb-4 letra">La palabra <span class="italic"> spleen, </span>  tiene un origen en la medicina Antigua y hace referencia al bazo (splên), órgano que, acorde
+                    a la teoría de Hipócrates, se encargaba de nivelar los humores del cuerpo. Un exceso de bilis negra, resultado de
+                    una mala combinación, sumergía a quién la padecía en un estado
+                    de abatimiento y melancolía.  
+                    Aristóteles relacionaba la experiencia melancólica con la enfermedad, pero de igual manera, con el genio y la
+                    excepcionalidad. Para Baudelaire, el esplín suponía una aflicción vital sin causa aparente: una experiencia
+                    simultánea de hartazgo y vacío. Para ambos, el sujeto melancólico se encontraba <span class="italic">fuera de sí, </span>  es decir, sometido a
+                    una voluntad ajena y convertido en objeto de sus propios actos.
+                </p>
             </div>
             <div class="lg:w-1/3 w-full  lg:py-6 mt-6 lg:mt-0 ml-0 md:ml-16 flex justify-center items-center">
-                <p class="leading-relaxed pb-4 letra"> <span class="italic"> ¿Cómo entender el acto de narrar y escuchar historias sin esta experiencia de desdoblamiento, de viaje, de alteridades y otredades?  </span>  En Esplín tropical buscamos diseñar una cartografía imaginativa inspirada en estas visiones y padecimientos. Una biblioteca indispensable para todos aquellos lectores que busquen refugio bajo nuestro mal de ánimo tropical.  </p>
+                <p class="leading-relaxed pb-4 letra"> <span class="font-bold"> ¿Cómo entender el acto de narrar y escuchar historias sin esta experiencia de <span class="italic">  desdoblamiento, </span> de viaje, de alteridades y otredades?  </span>  En Esplín tropical buscamos diseñar una cartografía imaginativa inspirada en estas visiones y padecimientos. Una biblioteca indispensable para todos aquellos lectores que busquen refugio bajo nuestro mal de ánimo tropical.  </p>
             </div>
             <div class="flex justify-center items-center  md:mt-0  md:ml-24 no ">
                 <g-image alt="flor" class="imagen object-center object-contain flex items-center justify-center " src="~/img/flor.svg" />
