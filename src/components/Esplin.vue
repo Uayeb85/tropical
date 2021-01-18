@@ -17,8 +17,10 @@
                 </p>
             </div>
             <div class="lg:w-1/3 w-full  lg:py-6 mt-6 lg:mt-0 ml-0 md:ml-16 flex justify-center items-center">
-                <p class="leading-relaxed pb-4 letra"> <span class="font-bold"> ¿Cómo entender el acto de narrar y escuchar historias sin esta experiencia de <span class="italic">  desdoblamiento, </span> de viaje, de alteridades y otredades?  </span>  En Esplín tropical buscamos diseñar una cartografía imaginativa inspirada en estas visiones y padecimientos. Una biblioteca indispensable para todos aquellos lectores que busquen refugio bajo nuestro mal de ánimo tropical.  </p>
-            </div>
+                <p class="leading-relaxed pb-4 letra"> <span class="font-bold"> ¿Cómo entender el acto de narrar y escuchar historias sin esta experiencia de <span class="italic">  desdoblamiento, </span> de viaje, de alteridades y otredades?  </span>  En Esplín Tropical buscamos diseñar una cartografía imaginativa inspirada por estas visiones y
+                    padecimientos. Una biblioteca indispensable para todos aquellos lectores que estén interesados en un refugio
+                    bajo nuestro mal de ánimo tropical.
+                </p>
             <div class="flex justify-center items-center  md:mt-0  md:ml-24 no ">
                 <g-image alt="flor" class="imagen object-center object-contain flex items-center justify-center " src="~/img/flor.svg" />
             </div>
