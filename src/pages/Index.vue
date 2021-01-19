@@ -53,6 +53,11 @@
         <Imagenes />
       </section>
 
+
+      <section class="notablet">
+        <Imagenesipad />
+      </section>
+
       <section>
         <Proyecto id="editorial" />
       </section>
@@ -74,6 +79,7 @@
 
 <script>
 import Imagenes from '~/components/Imagenes.vue'
+import Imagenesipad from '~/components/Imagenesipad.vue'
 import Proyecto from '~/components/Proyecto.vue'
 import Esplin from '~/components/Esplin.vue'
 import Contacto from '~/components/Contacto.vue'
@@ -83,6 +89,7 @@ import Footer from '~/components/Footer.vue'
 export default {
   components:{
     Imagenes,
+    Imagenesipad,
     Footer,
     Esplin,
     Contacto,
@@ -95,12 +102,38 @@ export default {
 </script>
 
 <style>
-@media only screen and (min-width: 0px)  and (max-width: 768px){
+@media only screen and (min-width: 0px)  and (max-width: 600px){
 
 .fondo{
   background: #fcf2eb ;
 }
 
+
+.no{
+  display: none;
+}
+
+.notablet{
+  display: none;
+}
+
+
+.size{
+  width: 350px;
+  height: 150px;
+}
+
+}
+
+@media only screen and (min-width: 601px)  and (max-width: 768px){
+
+.fondo{
+  background: #fcf2eb ;
+}
+
+.no-mobile{
+  display: none;
+}
 
 .no{
   display: none;
@@ -131,6 +164,10 @@ export default {
 }
 
 .no-mobile{
+  display: none;
+}
+
+.notablet{
   display: none;
 }
 

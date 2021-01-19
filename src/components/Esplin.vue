@@ -1,11 +1,11 @@
 <template>
     <section class="text-gray-700 body-font overflow-hidden fondo12">
         <div class="container px-5 py-10 mx-auto">
-            <div class="lg:w-4/5 mx-auto md:flex md:flex-wrap">
+            <div class="lg:w-4/5 mx-auto md:flex md:flex-wrap md:justify-center lg:justify-start">
                 <div class="flex justify-center md:items-center no-des">
                     <g-image alt="flor" class="imagen  flex items-center justify-center " src="~/img/flor.svg" />
                 </div>
-                <div class="lg:w-1/3 w-full lg:py-6 mt-6 lg:mt-0 ml-0 md:ml-24 ">
+                <div class="lg:w-1/3 w-full lg:py-6 mt-6 lg:mt-0 ml-0 md:ml-16 lg:ml-24 ">
                     <p class="leading-relaxed pb-4 letra">La palabra <span class="italic"> spleen, </span>  tiene un origen en la medicina Antigua y hace referencia al bazo (splên), órgano que, acorde
                         a la teoría de Hipócrates, se encargaba de nivelar los humores del cuerpo. Un exceso de bilis negra, resultado de
                         una mala combinación, sumergía a quién la padecía en un estado
@@ -39,7 +39,7 @@ export default {
 
 <style  scoped>
  
-@media only screen and (min-width: 0px)  and (max-width: 768px){
+@media only screen and (min-width: 0px)  and (max-width: 600px){
 .fondo12{
     background: #fcf2eb;
 }
@@ -54,6 +54,23 @@ export default {
     display: none;
 }
 }
+
+@media only screen and (min-width: 601px)  and (max-width: 768px){
+.fondo12{
+    background: #fcf2eb;
+}
+.imagen{
+    height: 50px;
+    width: 50px;
+}
+.letra{
+    color: #293b5c;
+}
+.no{
+    display: none;
+}
+}
+
 @media only screen and (min-width: 769px)  and (max-width: 2900px) {
 .fondo12{
     background: #fcf2eb;

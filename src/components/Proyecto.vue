@@ -1,7 +1,7 @@
 <template>
     <section class="text-gray-700 body-font overflow-hidden fondo12">
         <div class="container px-5 py-10 mx-auto">
-            <div class="lg:w-4/5 mx-auto md:flex md:flex-wrap">
+            <div class="lg:w-4/5 mx-auto md:flex md:flex-wrap md:justify-center lg:justify-start">
                 <div class="flex justify-center md:items-center">
                     <g-image alt="manzana-blanca" class="imagen" src="~/img/manzana-blanca.svg" />
 
