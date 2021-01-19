@@ -7,7 +7,7 @@
 
                 </div>
 
-                <div class="lg:w-1/3 w-full lg:py-6 mt-6 lg:mt-0 ml-0 md:ml-16">
+                <div class="lg:w-1/3 w-full md:px-6 lg:px-0 lg:py-6 mt-6 lg:mt-0 ml-0 md:ml-0 lg:ml-16  md:text-justify lg:text-left">
                     <p class="leading-relaxed pb-4 color-font">Esplín tropical es un proyecto editorial, a pequeña escala, imaginado y gestado en la Ciudad de México. <span class="font-bold"> Hacemos libros inspirados por el ejercicio del aburrimiento. </span>   </p>
                     <p class="leading-relaxed pb-4 color-font">Walter Benjamín escribió, quien no se aburre, no tiene la capacidad de contar historias. Tanto para los procesos
                         de escritura como para los hábitos de lectura, el aburrimiento se asoma como un padecimiento necesario. No

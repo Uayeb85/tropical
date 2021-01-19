@@ -3,7 +3,7 @@
         <div class="container px-5 py-10 mx-auto  caja ">
             <div class="lg:w-auto mx-auto flex flex-wrap md:justify-center  ">
 
-                <div class="lg:w-1/3 w-full  lg:py-6 mt-6 lg:mt-0 ml-0 md:ml-16 lg:ml-24 no-des">
+                <div class="lg:w-1/3 w-full md:px-6 mt-6  ml-0 md:ml-0 no-des">
                     <p class="leading-relaxed pb-4 letra"> Pautas para la recepción de obra original:  </p>
                     <p class="leading-relaxed  letra italic"> *Currículum Vitae </p>
                     <p class="leading-relaxed  letra italic"> *Sinopsis del argumento  </p>
@@ -16,12 +16,12 @@
                     <a href="mailto:ediciones@esplintropical.com "> <p class="leading-relaxed pb-4 letra italic">ediciones@esplintropical.com  </p> </a> 
                 </div>
 
-                <div class="lg:w-1/3 mt-10 lg:mt-0 flex justify-center items-center ">
-                    <g-image alt="pescado" class="imagen  " src="~/img/pescado-blanco.svg" />
+                <div class="lg:w-1/3 mt-10 lg:mt-0 lg:flex lg:justify-center lg:items-center ">
+                    <g-image alt="pescado" class="imagen  " src="~/img/pescado-blanco.svg" /> 
                 </div>
 
 
-                <div class="lg:w-1/3  lg:py-6 mt-6 lg:mt-0 ml-0 md:ml-16 lg:ml-24 no-des">
+                <div class="lg:w-1/3 w-full md:px-6 mt-6  ml-0 md:ml-0  no-des">
                     <p class="leading-relaxed pb-4 letra">Para más información sobre nuestra línea editorial y las pautas para recibir obra original:  </p>
                     <a href="mailto:ediciones@esplintropical.com "> <p class="leading-relaxed pb-4 letra italic">ediciones@esplintropical.com  </p> </a> 
                 </div>
