@@ -1,6 +1,6 @@
 <template>
     <section class="text-gray-700 body-font overflow-hidden fondo12">
-        <div class="container px-5 py-10 mx-auto ">
+        <div class="container px-5 py-10 mx-auto  caja ">
             <div class="lg:w-auto mx-auto flex flex-wrap md:justify-center  ">
 
                 <div class="lg:w-1/3 w-full  lg:py-6 mt-6 lg:mt-0 ml-0 md:ml-24 no-des">
@@ -88,6 +88,10 @@ export default {
 
 .no-des{
     display: none;
+}
+
+.caja{
+    width: 830px;
 }
 
 }
