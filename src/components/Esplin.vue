@@ -22,9 +22,9 @@
                         padecimientos. Una biblioteca indispensable para todos aquellos lectores que estén interesados en un refugio
                         bajo nuestro mal de ánimo tropical.
                     </p>
-                    <div class="lg:w-1/3 flex justify-center items-center  md:mt-0  md:ml-9 no ">
+                </div>
+                <div class="flex justify-center items-center  md:mt-0  md:ml-16 no ">
                         <g-image alt="flor" class="imagen flex items-center justify-center " src="~/img/flor.svg" />
-                    </div>
                 </div>
             </div>
         </div>
