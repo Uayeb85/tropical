@@ -6,7 +6,7 @@
                     <g-image alt="flor" class="imagen  flex items-center justify-center " src="~/img/flor.svg" />
                 </div>
                 <div class="lg:w-1/3 w-full md:px-6 lg:px-0 lg:py-6 mt-6 lg:mt-0 ml-0 md:ml-0 lg:ml-24 md:text-justify lg:text-left">
-                    <p class="leading-relaxed pb-4 letra">La palabra <span class="italic"> spleen, </span>  tiene un origen en la medicina Antigua y hace referencia al bazo (splên), órgano que, acorde
+                    <p class="leading-relaxed pb-4 letra">La palabra <span class="italic"> spleen </span>  tiene un origen en la medicina antigua y hace referencia al bazo (splên), órgano que, acorde
                         a la teoría de Hipócrates, se encargaba de nivelar los humores del cuerpo. Un exceso de bilis negra, resultado de
                         una mala combinación, sumergía a quién la padecía en un estado
                         de abatimiento y melancolía.  
@@ -17,7 +17,7 @@
                     </p>
                 </div>
                 <div class="lg:w-1/3 w-full md:px-6 lg:px-0  lg:py-6 mt-6 lg:mt-0 ml-0 md:ml-0 lg:ml-16 md:text-justify lg:text-left flex justify-center items-center">
-                    <p class="leading-relaxed pb-4 letra"> <span class="font-bold"> ¿Cómo entender el acto de narrar y escuchar historias sin esta experiencia de <span class="italic">  desdoblamiento, </span> de viaje, de alteridades y otredades?  </span> 
+                    <p class="leading-relaxed pb-4 letra"> <span class="font-bold"> ¿Cómo entender los actos de narrar y escuchar historias sin esta experiencia de <span class="italic">  desdoblamiento, </span> de viaje, de alteridades y otredades?  </span> 
                          En Esplín Tropical buscamos diseñar una cartografía imaginativa inspirada por estas visiones y
                         padecimientos. Una biblioteca indispensable para todos aquellos lectores que estén interesados en un refugio
                         bajo nuestro mal de ánimo tropical.
